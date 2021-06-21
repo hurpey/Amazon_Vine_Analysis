@@ -1,3 +1,4 @@
+<img width="508" alt="dataframe" src="https://user-images.githubusercontent.com/79670933/122699782-0f240900-d218-11eb-819e-2f93a099dc52.png">
 # Amazon_Vine_Analysis
 
 **Overview:**
@@ -9,21 +10,21 @@ This project uses PySpark to perform the ETL process to extract dataset, transfo
 
 **Results:**
 
-Below is an image of the dataframe for the final vine table
+Below are some snapshots of dataframe from the Amazon Vine analysis:
 
 <img width="851" alt="final vine table df" src="https://user-images.githubusercontent.com/79670933/122697723-f0bc0e80-d213-11eb-93bc-e904c45dd48f.png">
+
+<img width="60<img width="508" alt="dataframe" src="https://user-images.githubusercontent.com/79670933/122699873-3d094d80-d218-11eb-9732-abe48339abf0.png">
+0" alt="All reviews" src="https://user-images.githubusercontent.com/79670933/122697769-04677500-d214-11eb-89f0-a0ad9401915f.png">
 
 The images below show a snapshot of the comparison of the vine and non-Vine reviews. 
 
 <img width="400" alt="vine reviews" src="https://user-images.githubusercontent.com/79670933/122698253-ee0de900-d214-11eb-9ac3-3e070cbece8d.png">
-<img width="345" alt="all non vine reviews" src="https://user-images.githubusercontent.com/79670933/122698007-7a6bdc00-d214-11eb-83c0-4e3f367f276b.png">
+<img width="600" alt="all non vine reviews" src="https://user-images.githubusercontent.com/79670933/122698007-7a6bdc00-d214-11eb-83c0-4e3f367f276b.png">
 <img width="400" alt="non vine reviews" src="https://user-images.githubusercontent.com/79670933/122697764-03cede80-d214-11eb-8504-dcc1349ff324.png">
 <img width="400" alt="all 5 star furniture review" src="https://user-images.githubusercontent.com/79670933/122697767-04677500-d214-11eb-9d8a-bec76534e40f.png">
 <img width="400" alt="All furniture reviews" src="https://user-images.githubusercontent.com/79670933/122697768-04677500-d214-11eb-82e3-573761620881.png">
-<img width="400" alt="All reviews" src="https://user-images.githubusercontent.com/79670933/122697769-04677500-d214-11eb-89f0-a0ad9401915f.png">
 <img width="400" alt="all vine product reviews" src="https://user-images.githubusercontent.com/79670933/122697770-04677500-d214-11eb-8484-599981727900.png">
-<img width="851" alt="final vine table df" src="https://user-images.githubusercontent.com/79670933/122697771-04677500-d214-11eb-82b9-70c25717ea10.png">
-
 
 Based on the analysis perfromed and snapshots above, the following are observed:
 
