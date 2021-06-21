@@ -1,4 +1,3 @@
-<img width="508" alt="dataframe" src="https://user-images.githubusercontent.com/79670933/122699782-0f240900-d218-11eb-819e-2f93a099dc52.png">
 # Amazon_Vine_Analysis
 
 **Overview:**
