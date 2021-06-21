@@ -14,7 +14,7 @@ Below are some snapshots of dataframe from the Amazon Vine analysis:
 <img width="851" alt="final vine table df" src="https://user-images.githubusercontent.com/79670933/122697723-f0bc0e80-d213-11eb-93bc-e904c45dd48f.png">
 
 <img width="60<img width="508" alt="dataframe" src="https://user-images.githubusercontent.com/79670933/122699873-3d094d80-d218-11eb-9732-abe48339abf0.png">
-0" alt="All reviews" src="https://user-images.githubusercontent.com/79670933/122697769-04677500-d214-11eb-89f0-a0ad9401915f.png">
+
 
 The images below show a snapshot of the comparison of the vine and non-Vine reviews. 
 
@@ -38,4 +38,4 @@ Based on the analysis perfromed and snapshots above, the following are observed:
 
 In summary, we can see that most of the reviews  for Furniture product are almost nothing or lower results from non vine reviews. Also, more of the non -Vine reviews are 5 star ratings. Additional analysis that can be performed will be looking at the percentage of rating by stars (that is, 1 star to 5 star) asshown in the image below. From this analysis, we can see that more than 80% of favorable responses are 4 stars and above.
 
-<img width="157" alt="vine reviews" src="https://user-images.githubusercontent.com/79670933/122699568-a046b000-d217-11eb-977b-fdc4718c1c79.png">
+<img width="500" alt="vine reviews" src="https://user-images.githubusercontent.com/79670933/122699568-a046b000-d217-11eb-977b-fdc4718c1c79.png">
